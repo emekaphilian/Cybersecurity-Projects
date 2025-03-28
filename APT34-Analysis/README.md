@@ -1,6 +1,4 @@
 # APT34 Investigation
-This folder contains all resources related to the APT34 cybersecurity investigation.
-## APT34 Investigation
 This project contains an in-depth analysis of APT34, a state-sponsored cyber-espionage group. 
 The investigation covers their tactics, techniques, and procedures (TTPs) based on the MITRE ATT&CK framework. 
 
